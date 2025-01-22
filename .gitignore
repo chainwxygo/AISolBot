@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Trade state file (holds active trade data)
+trade_state.json
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# TensorFlow.js model artifacts (if generated at runtime)
+*.bin
+weights_manifest.json
+
+# Optional: If you have any build or dist folders for packaging
+build/
+dist/
+
+# Ignore model checkpoints / training logs (if you train locally)
+checkpoint/
+training_logs/
+
+# npm debug log
+npm-debug.log

@@ -1,0 +1,17 @@
+{
+	"name": "bot",
+	"engines": {
+		"node": "20.14.0"
+	},
+	"version": "1.0.0",
+	"main": "bot.js",
+	"license": "MIT",
+	"scripts": {
+		"start": "node bot.js"
+	},
+	"dependencies": {
+		"ccxt": "^4.4.44",
+		"dotenv": "^16.4.7",
+		"technicalindicators": "^3.1.0"
+	}
+}
