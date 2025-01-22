@@ -1,6 +1,6 @@
-# AI-Enhanced Sol Bot (AISolBot)
+# AI-Enhanced agent (AISolBot)
 
-This **AI-powered sol trading bot** trades **SOL/USDT** using:
+This **AI-powered trading agent** trades meme coin** using:
 
 -  [ccxt](https://github.com/ccxt/ccxt) to connect to the exchange.
 -  [technicalindicators](https://github.com/anandanand84/technicalindicators) for classic indicators (e.g. MACD, Stoch RSI, Bollinger Bands, ATR).
